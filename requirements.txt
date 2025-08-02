@@ -1,0 +1,12 @@
+# 1. requirements.txt
+# =============================================================================
+streamlit>=1.28.0
+sqlite3
+pandas>=1.5.0
+plotly>=5.15.0
+datetime
+threading
+time
+smtplib
+email
+hashlib
